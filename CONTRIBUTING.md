@@ -1,6 +1,6 @@
-# JavaScript DSA (Data Structures and Algorithms)
+# Data Structures and Algorithms
 
-Welcome to the JavaScript DSA repository! We appreciate your interest in contributing. Before you start, please take a moment to read through the guidelines below.
+Welcome to the DSA repository! We appreciate your interest in contributing. Before you start, please take a moment to read through the guidelines below.
 
 ## Contribution Guidelines
 
@@ -15,13 +15,13 @@ Welcome to the JavaScript DSA repository! We appreciate your interest in contrib
 
 ### Code Style and Structure
 
-- Follow JavaScript best practices.
+- Follow language-specific best practices (JavaScript/Dart).
 - Maintain consistent code formatting.
 - Include meaningful comments where necessary.
 
 ### Adding New Features or Algorithms
 
-1. If you are adding a new feature or algorithm, create a new folder with a descriptive name under the relevant category (e.g., `algorithms/new-feature`).
+1. If you are adding a new feature or algorithm, create a new folder with a descriptive name under the relevant category (e.g., `dart/algorithms/new-feature` or `javascript/algorithms/new-feature`).
 2. Include a clear README in the new folder explaining the algorithm, its time complexity, and usage examples.
 
 ### Reporting Issues
