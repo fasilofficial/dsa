@@ -93,3 +93,10 @@ Welcome to the Data Structures and Algorithms repository! This repository contai
 5. Create a pull request.
 
 Thank you for contributing! Feel free to suggest improvements, report issues, or add new features. Happy coding!
+
+**[CONTRIBUTING.md](CONTRIBUTING.md):** Click to read the contribution guidelines
+
+## Contributors
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=fasilofficial/dsa"/>
+</a>
