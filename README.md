@@ -82,8 +82,6 @@ Welcome to the Data Structures and Algorithms repository! This repository contai
        - [Selection Sort](./javascript/algorithms/sorting/selectionSort.js)
        - [Bubble Sort](./javascript/algorithms/sorting/bubbleSort.js)
 
-3. [README.md](./README.md) (You are here!)
-
 ---
 
 ## Contribution Guidelines
