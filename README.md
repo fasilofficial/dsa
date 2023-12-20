@@ -97,6 +97,6 @@ Thank you for contributing! Feel free to suggest improvements, report issues, or
 **[CONTRIBUTING.md](CONTRIBUTING.md):** Click to read the contribution guidelines
 
 ## Contributors
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/fasilofficial/dsa/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=fasilofficial/dsa"/>
 </a>
