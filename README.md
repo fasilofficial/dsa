@@ -1,6 +1,6 @@
-# Data Structures and Algorithms in Dart and JavaScript
+# Data Structures and Algorithms
 
-Welcome to the Data Structures and Algorithms repository! This repository contains Dart and JavaScript implementations of various data structures and algorithms. It's designed to be helpful for Flutter students (Dart) and web developers (JavaScript) interested in mastering fundamental concepts.
+Welcome to the Data Structures and Algorithms repository! This repository contains Dart and JavaScript implementations of various data structures and algorithms. It's designed to be helpful for students who are learning Dart, Go, and JavaScript in mastering fundamental concepts. In the future I'll try to add more and more programming languages to this repository.
 
 ---
 
@@ -40,7 +40,41 @@ Welcome to the Data Structures and Algorithms repository! This repository contai
        - [Heap Sort](./dart/algorithms/sorting/heap_sort.dart)
        - [Selection Sort](./dart/algorithms/sorting/selection_sort.dart)
 
-2. **JavaScript**
+1. **Go**
+   - [Tree](./go/data_structures/tree)
+     - [Tree Operations](./go/data_structures/tree/tree.go)
+     - [Binary Search Tree (BST)](./go/data_structures/tree/bst.go)
+   - [Stack](./go/data_structures/stack.go)
+   - [Linked List](./go/data_structures/linked_list)
+     - [Singly Linked List](./go/data_structures/linked_list/linked_list.go)
+     - [Doubly Linked List](./go/data_structures/linked_list/doubly_linked_list.go)
+   - [Graph](./go/data_structures/graph.go)
+   - [Hash Table](./go/data_structures/hash_table.go)
+   - [Queue](./go/data_structures/queue.go)
+   - [Heap](./go/data_structures/heap)
+     - [Max Heap](./go/data_structures/heap/max_heap.go)
+     - [Min Heap](./go/data_structures/heap/min_heap.go)
+   - [Array](./go/data_structures/array.go)
+   - [Algorithms](./go/algorithms)
+     - [Searching](./go/algorithms/searching)
+       - [Linear Search](./go/algorithms/searching/linear_search.go)
+       - [Binary Search](./go/algorithms/searching/binary_search.go)
+     - [Recursion](./go/algorithms/recursion)
+       - [Factorial](./go/algorithms/recursion/recursive_factorial.go)
+       - [Fibonacci](./go/algorithms/recursion/recursive_fibonacci.go)
+       - [Binary Search (Recursion)](./go/algorithms/recursion/recursive_binary_search.go)
+     - [Math](./go/algorithms/math)
+       - [Factorial](./go/algorithms/math/factorial.go)
+       - [Fibonacci](./go/algorithms/math/fibonacci.go)
+     - [Sorting](./go/algorithms/sorting)
+       - [Bubble Sort](./go/algorithms/sorting/bubble_sort.go)
+       - [Merge Sort](./go/algorithms/sorting/merge_sort.go)
+       - [Insertion Sort](./go/algorithms/sorting/insertion_sort.go)
+       - [Quick Sort](./go/algorithms/sorting/quick_sort.go)
+       - [Heap Sort](./go/algorithms/sorting/heap_sort.go)
+       - [Selection Sort](./go/algorithms/sorting/selection_sort.go)
+
+3. **JavaScript**
    - [String](./javascript/data-structures/string)
      - [String Operations](./javascript/data-structures/string/string.js)
    - [Binary Search Tree](./javascript/data-structures/binary-search-tree)

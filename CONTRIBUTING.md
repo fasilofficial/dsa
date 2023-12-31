@@ -15,7 +15,7 @@ Welcome to the DSA repository! We appreciate your interest in contributing. Befo
 
 ### Code Style and Structure
 
-- Follow language-specific best practices (JavaScript/Dart).
+- Follow language-specific best practices (JavaScript/Dart/Go).
 - Maintain consistent code formatting.
 - Include meaningful comments where necessary.
 
