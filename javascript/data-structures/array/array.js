@@ -87,7 +87,16 @@ const sortArray = (arr) => {
   }
 };
 
-let myArray = [4, 2, 7, 1, 5];
+const frequency = (arr)=>{
+    let obj = {}
+    for(let i=0;i<arr.length;i++){
+        let num = arr[i]
+        obj[num] = (obj[num] || 0) +1
+    }
+    return obj
+}
+
+let myArray = [4, 2, 7, 1, 5, 4, 7];
 console.log("Original Array:", myArray);
 
 appendElement(myArray, 6);
@@ -108,3 +117,5 @@ console.log("Reversed Array:", myArray);
 
 sortArray(myArray);
 console.log("Sorted Array:", myArray);
+
+console.log("Frequency of Array:",frequency(myArray));
